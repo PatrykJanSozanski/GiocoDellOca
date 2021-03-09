@@ -1,0 +1,42 @@
+OCA TAVOLA
+CASELLE 62
+COMMENTO INIZIO
+Questo file traduce grosso modo il gioco dell'oca situato alla pagina
+https://www.mariolibera.com/galleria-disegni/2-portfolio/37-gioco-dell-oca
+COMMENTO FINE
+2 AVANTI 2 Il gruppo di studio a distanza e' stato una buona trovata, vai avanti di due caselle
+3 AVANTI 2 L'uovo di Pasqua ai bambini del palazzo e' un pensiero che scalda il cuore, vai avanti di due caselle
+4 VAI 11 Compri un gel antibatterico, vai alla casella 11
+5 FERMO 2 Focolaio epidemico, stai fermo 2 turni
+6 INDIETRO 2 Spesa nel supermercato di un altro quartiere, torna indietro di due caselle
+7 AVANTI 2 La spesa comune per il condominio e' un'ottima idea, vai avanti di due caselle
+8 INDIETRO 2 Niente mascherina in giro, torna indietro di due caselle
+9 AVANTI 1 Giochi con tua sorella piccola mentre i vostri genitori sono in smart working, vai avanti di una casella
+12 DOPPIO Hai portato la spesa agli anziani che vivono accanto, raddoppia il tiro
+14 INDIETRO 3 Uscita in famiglia per andare al supermercato, torna indietro di tre caselle
+15 FERMO 2 Aspetti il risultato del tampone, stai fermo 2 turni
+16 FERMO 3 Quarantena, stai fermo 3 turni
+19 INDIETRO 2 Hai preso piu' disinfettante del necessario e qualcun altro dovra' farne a meno, torna indietro di due caselle
+20 VAI 27 Compri un gel antibatterico, vai alla casella 27
+21 AVANTI 2 Partecipi all'iniziativa del telefono solidale, vai avanti di due caselle
+22 INDIETRO 2 Il guinzaglio al criceto non vale, torna indietro di due caselle
+25 FERMO 2 Aspetti il risultato del tampone, stai fermo 2 turni
+26 AVANTI 1 Indossi sempre i guanti al supermercato, vai avanti di una casella
+28 INDIETRO 1 Hai preso in prestito il cane del tuo vicino per portarlo a spasso, torna indietro di una casella
+29 INDIETRO 1 Spesa nel supermercato di un altro quartiere, torna indietro di una casella
+30 AVANTI 2  Giochi con tuo fratello piccolo mentre i vostri genitori sono in smart working, vai avanti di due caselle
+31 AVANTI 1 Hai fatto una donazione a una onlus, vai avanti di una casella
+33 AVANTI 1 L'uovo di Pasqua ai bambini del palazzo e' un pensiero che scalda il cuore, vai avanti di una casella
+35 FERMO 3 Ti raffreddi, stai fermo 3 turni
+36 INDIETRO 2 Picnic con gli amici al parco, torna indietro di due caselle
+37 INDIETRO 2 Un tuo parente e' guarito, organizzi una festa con i parenti, torna indietro di due caselle
+38 AVANTI 1 Ricordi sempre di starnutire nel gomito, vai avanti di una casella
+41 INDIETRO 2 Il peluche non e' un animale, non puoi portarlo a spasso, torna indietro di due caselle
+45 AVANTI 1 Hai fatto una donazione alla protezione civile, vai avanti di una casella
+47 AVANTI 2 Hai fatto una donazione, vai avanti di due caselle
+48 INDIETRO 2 Niente guanti al supermercato, torna indietro di due caselle
+49 DOPPIO Hai fatto la spesa agli anziani che ti vivono accanto, raddoppia il tiro
+50 INDIETRO 4 Il guinzaglio al gatto non vale, torna indietro di quattro caselle
+53 AVANTI 2 La spesa comune per il condominio e' un'ottima idea, vai avanti di due caselle
+60 FERMO 2 Focolaio epidemico, stai fermo 2 turni
+0

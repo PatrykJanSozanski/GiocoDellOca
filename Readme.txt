@@ -1,0 +1,1 @@
+I sorgenti Java includono le descrizioni. Ci vuole generare la documentazione di Javadoc.

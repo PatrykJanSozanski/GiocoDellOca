@@ -1,0 +1,204 @@
+OCA GIOCO
+CASELLE 62
+GIOCATORE 1 Stella
+GIOCATORE 2 Luna
+TURNO 1
+DADO 4
+SPOSTA 1 2 3 4
+MESSAGGIO Compri un gel antibatterico, vai alla casella 11.
+SPOSTA 11
+MESSAGGIO La casella 11 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 3
+SPOSTA 1 2 3
+MESSAGGIO L'uovo di Pasqua ai bambini del palazzo e' un pensiero che scalda il cuore, vai avanti di due caselle.
+SPOSTA 4 5
+MESSAGGIO Focolaio epidemico, stai fermo 2 turni.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 6
+SPOSTA 12 13 14 15 16 17
+MESSAGGIO La casella 17 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 3
+SPOSTA 18 19 20
+MESSAGGIO Compri un gel antibatterico, vai alla casella 27.
+SPOSTA 27
+MESSAGGIO La casella 27 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 28 29
+MESSAGGIO Spesa nel supermercato di un altro quartiere, torna indietro di una casella.
+SPOSTA 28
+MESSAGGIO Hai preso in prestito il cane del tuo vicino per portarlo a spasso, torna indietro di una casella.
+SPOSTA 27
+MESSAGGIO La casella 27 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 3
+SPOSTA 6 7 8
+MESSAGGIO Niente mascherina in giro, torna indietro di due caselle.
+SPOSTA 7 6
+MESSAGGIO Spesa nel supermercato di un altro quartiere, torna indietro di due caselle.
+SPOSTA 5 4
+MESSAGGIO Compri un gel antibatterico, vai alla casella 11.
+SPOSTA 11
+MESSAGGIO La casella 11 e' vuota.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 4
+SPOSTA 28 29 30 31
+MESSAGGIO Hai fatto una donazione a una onlus, vai avanti di una casella.
+SPOSTA 32
+MESSAGGIO La casella 32 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 4
+SPOSTA 12 13 14 15
+MESSAGGIO Aspetti il risultato del tampone, stai fermo 2 turni.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 4
+SPOSTA 33 34 35 36
+MESSAGGIO Picnic con gli amici al parco, torna indietro di due caselle.
+SPOSTA 35 34
+MESSAGGIO La casella 34 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 4
+SPOSTA 35 36 37 38
+MESSAGGIO Ricordi sempre di starnutire nel gomito, vai avanti di una casella.
+SPOSTA 39
+MESSAGGIO La casella 39 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 6
+SPOSTA 40 41 42 43 44 45
+MESSAGGIO Hai fatto una donazione alla protezione civile, vai avanti di una casella.
+SPOSTA 46
+MESSAGGIO La casella 46 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 4
+SPOSTA 16 17 18 19
+MESSAGGIO Hai preso piu' disinfettante del necessario e qualcun altro dovra' farne a meno, torna indietro di due caselle.
+SPOSTA 18 17
+MESSAGGIO La casella 17 e' vuota.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 3
+SPOSTA 47 48 49
+MESSAGGIO Hai fatto la spesa agli anziani che ti vivono accanto, raddoppia il tiro.
+SPOSTA 50 51 52
+MESSAGGIO La casella 52 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 6
+SPOSTA 18 19 20 21 22 23
+MESSAGGIO La casella 23 e' vuota.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 53 54
+MESSAGGIO La casella 54 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 2
+SPOSTA 24 25
+MESSAGGIO Aspetti il risultato del tampone, stai fermo 2 turni.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 6
+SPOSTA 55 56 57 58 59 60
+MESSAGGIO Focolaio epidemico, stai fermo 2 turni.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+MESSAGGIO Fine turno
+TURNO 2
+DADO 4
+SPOSTA 26 27 28 29
+MESSAGGIO Spesa nel supermercato di un altro quartiere, torna indietro di una casella.
+SPOSTA 28
+MESSAGGIO Hai preso in prestito il cane del tuo vicino per portarlo a spasso, torna indietro di una casella.
+SPOSTA 27
+MESSAGGIO La casella 27 e' vuota.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 61 62
+MESSAGGIO La casella 62 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 3
+SPOSTA 28 29 30
+MESSAGGIO  Giochi con tuo fratello piccolo mentre i vostri genitori sono in smart working, vai avanti di due caselle.
+SPOSTA 31 32
+MESSAGGIO La casella 32 e' vuota.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 63 62
+MESSAGGIO La casella 62 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 5
+SPOSTA 33 34 35 36 37
+MESSAGGIO Un tuo parente e' guarito, organizzi una festa con i parenti, torna indietro di due caselle.
+SPOSTA 36 35
+MESSAGGIO Ti raffreddi, stai fermo 3 turni.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 3
+SPOSTA 63 62 61
+MESSAGGIO La casella 61 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 6
+SPOSTA 62 63 62 61 60 59
+MESSAGGIO La casella 59 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 60 61
+MESSAGGIO La casella 61 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+MESSAGGIO Fine turno
+TURNO 1
+DADO 4
+SPOSTA 62 63 62 61
+MESSAGGIO La casella 61 e' vuota.
+MESSAGGIO Fine turno
+TURNO 2
+DADO 2
+SPOSTA 36 37
+MESSAGGIO Un tuo parente e' guarito, organizzi una festa con i parenti, torna indietro di due caselle.
+SPOSTA 36 35
+MESSAGGIO Ti raffreddi, stai fermo 3 turni.
+MESSAGGIO Fine turno
+TURNO 1
+DADO 2
+SPOSTA 62 63
+MESSAGGIO Stella vince!
+VINCE
